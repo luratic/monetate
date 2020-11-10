@@ -1,6 +1,10 @@
 homepage: "https://www.luratic.com"
 documentation: "https://www.luratic.com/posts/templates/tags/monetate/"
 versions:
+  # Latest version
+  - sha: 4dfeb19240462854248e5d2ee87d7320307f98b6
+    changeNotes: Improve and update documentation.
+  # Older versions  
   - sha: b3c921b8fe329d9634e210beeb248ca54003600e
   - sha: 6a6b38e12ea93ea4d7b8e0c2e066a04462796241
   - sha: 01cb6893938f3036536f246fefd0a002f8f2c94c
