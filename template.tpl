@@ -328,8 +328,10 @@ if (monetateQ) {
 
 ___NOTES___
 
-v1 --> 23/10/2019
-Desarrollado con ❤ por: 
-Alfonso. 
-Txema.
-Brais.
+Developed with ❤ by: Alfonso, Txema and Brais.
+Web: www.luratic.com
+Linkedin: 
+https://www.linkedin.com/in/braiscalvo/
+https://www.linkedin.com/in/alfonsorc/
+https://www.linkedin.com/in/txema-s%C3%A1nchez-a48482ba/
+
